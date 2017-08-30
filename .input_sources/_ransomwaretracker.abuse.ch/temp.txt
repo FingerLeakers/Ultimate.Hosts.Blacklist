@@ -1,6 +1,6 @@
 ##########################################################################
 # Ransomware Domain Blocklist (RW_DOMBL)                                 #
-# Generated on 2017-08-29 17:50:02 UTC                                   #
+# Generated on 2017-08-30 11:30:02 UTC                                   #
 #                                                                        #
 # For questions please refer to:                                         #
 # https://ransomwaretracker.abuse.ch/blocklist/                          #
