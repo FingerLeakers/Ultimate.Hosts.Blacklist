@@ -1,6 +1,6 @@
 ##########################################################################
 # Ransomware Domain Blocklist (RW_DOMBL)                                 #
-# Generated on 2017-10-04 14:40:02 UTC                                   #
+# Generated on 2017-10-05 09:45:01 UTC                                   #
 #                                                                        #
 # For questions please refer to:                                         #
 # https://ransomwaretracker.abuse.ch/blocklist/                          #
@@ -1391,6 +1391,7 @@ qfjhpgbefuhenjp7.1jfjhb.top
 qfjhpgbefuhenjp7.1jrkyn.top
 qfjhpgbefuhenjp7.1mkwry.top
 qfjhpgbefuhenjp7.1mnsg6.top
+qfuxosx.eu
 qlwnvdjwro.pw
 qqonof.info
 qsbfwgtedexirbyoq.pw
@@ -1885,4 +1886,4 @@ zjfq4lnfbs7pncr5.onion.to
 zjfq4lnfbs7pncr5.tor2web.org
 ztuw5bvuuapzdfya.klimbim.pl
 zutzt67dcxr6mxcn.onion.to
-# 1880 entries
+# 1881 entries
