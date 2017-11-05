@@ -9,6 +9,7 @@ anime.reactor.cc
 api2.bitcoin.cz
 api.bitcoin.cz
 api.coinhive.com
+api.moneroocean.stream
 api-stratum.bitcoin.cz
 app.pr0gramm.com
 aricoin.miningpoolhub.com
@@ -85,6 +86,7 @@ dcr.suprnova.cc
 de.ckpool.org
 deepc.cc
 de.kano.is
+de.moneroocean.stream
 depool.ckpool.org
 depoolstratum.ckpool.org
 de-sn01.suprnova.cc
@@ -106,6 +108,7 @@ eac.suprnova.cc
 edgeno.de
 electrum1.wemineltc.com
 electrum.bitcoin.cz
+email.moneroocean.stream
 emc2.suprnova.cc
 eqt.suprnova.cc
 equal.suprnova.cc
@@ -200,6 +203,7 @@ google.gus.host
 granite.miningpoolhub.com
 groestlcoin.miningpoolhub.com
 grs.suprnova.cc
+gulf.moneroocean.stream
 gus.host
 hans.pr0gramm.com
 hashforcash.us
@@ -261,6 +265,7 @@ mail.crypto-loot.com
 mail.eth.pp.ua
 mail.miningpoolhub.com
 mail.miningspeed.com
+mail.sbhmn-miner.com
 mail.tugae2.com
 map.bitcoin-russia.ru
 mar.suprnova.cc
@@ -323,6 +328,8 @@ m.pr0gramm.com
 multicoin.eu
 muning.bitcoin.cz
 musicoin.miningpoolhub.com
+myfhology.sbhmn-miner.com
+my-retrospace.sbhmn-miner.com
 myrgrs.suprnova.cc
 myriadcoin-groestl.miningpoolhub.com
 myriadcoin-qubit.miningpoolhub.com
@@ -384,6 +391,7 @@ ratchetmining.com
 rdd.coinedpool.com
 reactor.cc
 reasedoper.pw
+sbhmn-miner.com
 scrypt.cryptobroker.io
 securecoin.miningpoolhub.com
 server.jsecoin.com
@@ -481,6 +489,7 @@ us-east.stratum.bitcoin.cz
 us-east.straum.bitcoin.cz
 us.madmining.club
 us.miningspeed.com
+us.moneroocean.stream
 us.multipool.us
 us.wemineltc.com
 us-west.bitcoin.cz
@@ -495,10 +504,16 @@ vid.pr0gramm.com
 vip48.wemineltc.com
 virtualminingcoin.miningpoolhub.com
 w13.coinhive.com
+wc3-soft.sbhmn-miner.com
+wckp.sbhmn-miner.com
 webmail.tugae2.com
+web-master.sbhmn-miner.com
 webmine.cz
+wijzeman.sbhmn-miner.com
+witkom.sbhmn-miner.com
 wo15.coinhive.com
 wood.suprnova.cc
+woork.sbhmn-miner.com
 world.wemineltc.com
 worm.suprnova.cc
 wp.bitcoin.cz
@@ -661,11 +676,13 @@ www.madmining.club
 www.miningpoolhub.com
 www.miningspeed.com
 www.minning.bitcoin.cz
+www.moneroocean.stream
 www.p2pool.in
 www.p2pool.info
 www.p2pool.org
 www.ppoi.org
 www.pr0gramm.com
+www.sbhmn-miner.com
 www.suprnova.cc
 www-tb7c.pr0gramm.com
 www.tugae2.com
