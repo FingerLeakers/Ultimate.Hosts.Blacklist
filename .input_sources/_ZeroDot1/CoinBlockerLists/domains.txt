@@ -157,6 +157,7 @@ explorer.bitcoin-russia.ru
 exp.suprnova.cc
 exp-us.dwarfpool.com
 fail.suprnova.cc
+faraday.mmpool.org
 feathercoin.miningpoolhub.com
 flo.suprnova.cc
 forre.st
@@ -340,7 +341,9 @@ netko.suprnova.cc
 neva.suprnova.cc
 nodes.bitcoin-russia.ru
 nrn.suprnova.cc
+ns1.cryptmonero.com
 ns1.wemineltc.com
+ns2.cryptmonero.com
 ny1.minez.zone
 oc.suprnova.cc
 old.bitcoin.cz
@@ -367,6 +370,7 @@ pool.burstmarketplace.com
 pool.ckpool.org
 pool.cloudcoins.co
 pool.coinlab.biz
+pool.cryptmonero.com
 pool.eth.pp.ua
 pool.minemonero.pro
 pool.miners.pro
