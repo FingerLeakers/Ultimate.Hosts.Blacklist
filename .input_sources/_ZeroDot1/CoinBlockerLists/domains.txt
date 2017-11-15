@@ -69,6 +69,7 @@ btcz.suprnova.cc
 btg.altpool.pro
 btgpool.pro
 btx.suprnova.cc
+calc.btgpool.pro
 cann.suprnova.cc
 capodannoinversilia.com
 cdn.cloudcoins.co
@@ -167,6 +168,7 @@ eth-us2.dwarfpool.com
 eth-us.dwarfpool.com
 ethweb.antpool.com
 etn.crypto-coins.club
+etn.xzpool.com
 eu1.bitminter.com
 eu2.multipool.us
 eu2.wemineltc.com
@@ -508,6 +510,7 @@ startcoin.miningpoolhub.com
 startminer.com
 start.suprnova.cc
 startum.bitcoin.cz
+static.btgpool.pro
 static.reasedoper.pw
 statum.bitcoin.cz
 staturm.bitcoin.cz
@@ -602,6 +605,7 @@ us-west2.multipool.us
 us-west.bitcoin.cz
 us-west.multipool.us
 usxmrpool.com
+validator.btgpool.pro
 vcash.miningpoolhub.com
 veltor.suprnova.cc
 verge-scrypt.miningpoolhub.com
@@ -614,6 +618,7 @@ vip.slushpool.com
 virtualminingcoin.miningpoolhub.com
 vps.btgpool.pro
 w13.coinhive.com
+wallet.btgpool.pro
 wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
 webmail.tugae2.com
@@ -824,6 +829,7 @@ www-tb7c.pr0gramm.com
 www.tugae2.com
 www.wemineltc.com
 www.xmr-tw.org
+www.xzpool.com
 wyv.suprnova.cc
 xbasfbno.info
 xci.crypto-coins.club
@@ -854,6 +860,7 @@ xmr-us.suprnova.cc
 xpool.net
 xre.suprnova.cc
 xzc.suprnova.cc
+xzpool.com
 zabbix.minemonero.pro
 zcash.deltapool.net
 zcash.miningpoolhub.com
