@@ -1,6 +1,7 @@
 2giga.link
 a37ubfu6nmjxzcff.onion
 abc.suprnova.cc
+ads.bitcoin.com
 adzcoin.miningpoolhub.com
 aeon.pools.e-scavo.net.ar
 afminer.com
@@ -15,6 +16,7 @@ api.coinhive.com
 api.minemonero.pro
 api.moneroocean.stream
 api.multipool.us
+api.pool.bitcoin.com
 api.slushpool.com
 api-stratum.bitcoin.cz
 app.pr0gramm.com
@@ -47,6 +49,7 @@ beta.slushpool.com
 bic.crypto-coins.club
 bip.crypto-coins.club
 bitcoin-cash.miningpoolhub.com
+bitcoin.com
 bitcoin.cz
 bitcoin.miningpoolhub.com
 bitcoin-russia.ru
@@ -61,6 +64,7 @@ boat.suprnova.cc
 bravo-mining.com
 bsd.suprnova.cc
 bta.suprnova.cc
+btc1.seeds.bitcoin.com
 btcd-us-tx.bravo-mining.com
 btcprominer.life
 btc.suprnova.cc
@@ -69,6 +73,7 @@ btcz.suprnova.cc
 btg.altpool.pro
 btgpool.pro
 btx.suprnova.cc
+buy.bitcoin.com
 calc.btgpool.pro
 cann.suprnova.cc
 capodannoinversilia.com
@@ -91,6 +96,8 @@ coin-hive-proxy-ybydcnjgkl.now.sh
 coinlab.biz
 coinnebula.com
 com-http.us
+connect.pool.bitcoin.com
+console.pool.bitcoin.com
 cqfnvznw.info
 crevacoin.miningpoolhub.com
 cryptmonero.com
@@ -361,6 +368,7 @@ minging.bitcoin.cz
 minig.bitcoin.cz
 minimg.bitcoin.cz
 minin.bitcoin.cz
+mining.bitcoin.com
 mining.bitcoin.cz
 mining.coin-hive.com
 mining.deltapool.net
@@ -440,6 +448,7 @@ podrltid.info
 pool1.us.multipool.us
 pool.antpool.com
 pool.ar-net.info
+pool.bitcoin.com
 pool.bitcoin.cz
 pool.bohemianpool.com
 pool.burstmarketplace.com
@@ -455,6 +464,7 @@ pool.miningspeed.com
 pool.moneropool.nl
 pool.moriaxmr.com
 pools.tugae2.com
+poolsupport.bitcoin.com
 pool.xmr.pt
 potcoin.miningpoolhub.com
 power.wemineltc.com
@@ -479,14 +489,17 @@ s003.papoto.com
 sbhmn-miner.com
 scrypt.cryptobroker.io
 seattle01.minemonero.pro
+secretbeta.bitcoin.com
 secumine.net
 securecoin.miningpoolhub.com
+server.bitcoin.com
 server.jsecoin.com
 sexcoin.miningpoolhub.com
 sg.bitcoin.cz
 sg.kano.is
 sg.stratum.slushpool.com
 s.gus.host
+shell.bitcoin.com
 siacoin.miningpoolhub.com
 sia.suprnova.cc
 sib.suprnova.cc
@@ -618,9 +631,13 @@ vip.slushpool.com
 virtualminingcoin.miningpoolhub.com
 vps.btgpool.pro
 w13.coinhive.com
+wallet-backend.bitcoin.com
+wallet.bitcoin.com
 wallet.btgpool.pro
+wallets.bitcoin.com
 wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
+web04.bitcoin.com
 webmail.tugae2.com
 web-master.sbhmn-miner.com
 webmine.cz
