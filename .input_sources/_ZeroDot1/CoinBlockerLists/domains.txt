@@ -57,6 +57,7 @@ api.multipool.us
 api.nanopool.org
 api.nicehash.com
 api.pool.bitcoin.com
+api.pooldd.com
 api.sandbox.coinbase.com
 api.slushpool.com
 api.staging.cryptokitties.co
@@ -73,12 +74,14 @@ aservices.party
 asia1.ethereum.miningpoolhub.com
 asia1.nanopool.org
 asia1.zcash.miningpoolhub.com
+asia1.zenmine.pro
 asia.cryptonight-hub.miningpoolhub.com
 asia.equihash-hub.miningpoolhub.com
 asia.ethash-hub.miningpoolhub.com
 asia.madmining.club
 asia.miningspeed.com
 asia.monero.miningpoolhub.com
+asia.zenmine.pro
 assets.coinbase.com
 atlanta.minemonero.pro
 atlas.phoenixcoin.org
@@ -114,6 +117,7 @@ bitcoin-cash.miningpoolhub.com
 bitcoin.com
 bitcoin.cz
 bitcoin.de
+bitcoiner.win
 bitcoin.miningpoolhub.com
 bitcoin-russia.ru
 bitcoinz.getpool.network
@@ -146,6 +150,7 @@ btc.suprnova.cc
 btcz-api.suprnova.cc
 btcz.suprnova.cc
 btg.altpool.pro
+btgmine.pro
 btgpool.pro
 btx.suprnova.cc
 buy.bitcoin.com
@@ -165,6 +170,7 @@ chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
 cliggi.download
+clod.pw
 clortho.multipool.us
 cloudcdn.gdn
 cloudcoins.co
@@ -230,6 +236,7 @@ darkcoin.miningpoolhub.com
 dashboard.minemonero.pro
 dash.miningpoolhub.com
 dash.suprnova.cc
+dbix.drowningpool.net
 dc.deltapool.net
 dcr-api.suprnova.cc
 dcr-gw.suprnova.cc
@@ -270,6 +277,7 @@ ditcoin.io
 dmdamedia.hu
 docs.exchange.coinbase.com
 dogepool.rf.gd
+drowningpool.net
 dsh.tugae2.com
 eac.suprnova.cc
 edgeno.de
@@ -338,8 +346,10 @@ etn.cryptoxpool.com
 etn.xzpool.com
 eu1.bitminter.com
 eu1.nanopool.org
+eu1.zenmine.pro
 eu2.multipool.us
 eu2.wemineltc.com
+eu2.zenmine.pro
 eu.bitcoin.cz
 eu.bohemianpool.com
 eu.btgpool.pro
@@ -360,6 +370,7 @@ eu.stratum.bravo-mining.com
 eu.stratum.slushpool.com
 eu.wemineltc.com
 eu.zec.slushpool.com
+eu.zenmine.pro
 exceptions.coinbase.com
 exchange.coinbase.com
 execoin.miningpoolhub.com
@@ -368,6 +379,7 @@ exp1.nanopool.org
 expanse.miningpoolhub.com
 exp-eu.dwarfpool.com
 explorer.bitcoin-russia.ru
+explorer.zenmine.pro
 exp.suprnova.cc
 exp-us.dwarfpool.com
 f1.deepbit.net
@@ -508,6 +520,8 @@ kissdoujin.com
 kisshentai.net
 kiwifarms.net
 kmd.suprnova.cc
+knet.kosmoplovci.org
+kosmoplovci.org
 krb.crypto-coins.club
 krb.cryptomine.pro
 krb.suprnova.cc
@@ -560,6 +574,7 @@ mail.deltapool.net
 mail.ditcoin.io
 mail.eth.pp.ua
 mail.hashcoin.io
+mail.kosmoplovci.org
 mail.miningpoolhub.com
 mail.miningspeed.com
 mail.multipool.us
@@ -694,6 +709,7 @@ node9.mycelium.com
 nodes.bitcoin-russia.ru
 node.supportxmr.com
 nodes.viaxmr.com
+novaminers.tk
 nrn.suprnova.cc
 ns1.cryptmonero.com
 ns1.wemineltc.com
@@ -710,6 +726,7 @@ openkatalog.com
 p2p-multipool.greengaming.de
 p2pool.in
 p2pool.info
+p2pool.kosmoplovci.org
 p2pool.litecointools.com
 p2pool.neocities.org
 p2pool.org
@@ -731,6 +748,7 @@ pepe.suprnova.cc
 phkttm64gbquasaq.onion
 phoenixcoin.miningpoolhub.com
 pi2.bitcoin.cz
+pirl.drowningpool.net
 pit.deepbit.net
 platform.jsecoin.com
 podrltid.info
@@ -747,14 +765,17 @@ pool.cloudcoins.co
 pool.coinimp.com
 pool.coinlab.biz
 pool.cryptmonero.com
+pooldd.com
 pool-de.supportxmr.com
 pool.eth.pp.ua
+pool.kosmoplovci.org
 pool.minemonero.pro
 pool.miners.pro
 poolmining.org
 pool.miningspeed.com
 pool.moneropool.nl
 pool.moriaxmr.com
+pool.qp.si
 pools.tugae2.com
 poolsupport.bitcoin.com
 pool.supportxmr.com
@@ -967,6 +988,7 @@ trezor.bitcoin.cz
 ttc.suprnova.cc
 tugae2.com
 tzc.suprnova.cc
+ubiq.drowningpool.net
 ubiq.suprnova.cc
 ucrypto.net
 ufocoin.miningpoolhub.com
@@ -980,6 +1002,7 @@ uro.miningpoolhub.com
 uro.suprnova.cc
 us1.bitcoin.cz
 us1.bitminter.com
+us1.zenmine.pro
 us2.bitminter.com
 us3.wemineltc.com
 usa2.bitcoin.cz
@@ -1015,6 +1038,7 @@ us-west2.multipool.us
 us-west.bitcoin.cz
 us-west.multipool.us
 usxmrpool.com
+us.zenmine.pro
 v1.srv.eligius.st
 v2.srv.eligius.st
 v3.srv.eligius.st
@@ -1046,6 +1070,7 @@ web04.bitcoin.com
 web.clod.pw
 webdisk.hashcoin.io
 webmail.coinpot.co
+webmail.cryptmonero.com
 webmail.hashcoin.io
 webmail.nicehash.com
 webmail.tugae2.com
@@ -1298,6 +1323,7 @@ ws.freebitco.in
 ws.ledgerwallet.com
 wsnew.freebitco.in
 ws.sandbox.coinbase.com
+wty46.com
 ww8.adminer.com
 ww.pr0gramm.com
 www1.2giga.link
@@ -1340,6 +1366,7 @@ www.coinhive-manager.com
 www.coinimp.com
 www.coinlab.biz
 www.coinpot.co
+www.cryptmonero.com
 www.crypto-coins.club
 www.cryptokitties.co
 www.crypto-loot.com
@@ -1350,6 +1377,7 @@ www.deepbit.net
 www.deltapool.net
 www.ditcoin.io
 www.dogepool.rf.gd
+www.drowningpool.net
 www.eligius.st
 www.engineering.coinbase.com
 www.eth.pp.ua
@@ -1369,6 +1397,7 @@ www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com
 www.kano.is
+www.kosmoplovci.org
 www.ledgerwallet.com
 www.live.prohashing.com
 www.madmining.club
@@ -1390,6 +1419,7 @@ www.p2pool.org
 www.papoto.com
 www.pool2.coinimp.com
 www.pool.coinimp.com
+www.pooldd.com
 www.poolmining.org
 www.ppoi.org
 www.pr0gramm.com
@@ -1411,6 +1441,7 @@ www.ws.freebitco.in
 www.wsnew.freebitco.in
 www.xmr-tw.org
 www.xzpool.com
+www.zenmine.pro
 wyv.suprnova.cc
 x11gost.eu.nicehash.com
 x11gost.usa.nicehash.com
@@ -1483,6 +1514,7 @@ zec-us.suprnova.cc
 zec-us-west1.nanopool.org
 zen-api.suprnova.cc
 zen.getpool.network
+zenmine.pro
 zen.miningspeed.com
 zen.suprnova.cc
 zero.suprnova.cc
