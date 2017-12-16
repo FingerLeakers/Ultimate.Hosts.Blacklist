@@ -157,7 +157,9 @@ buy.bitcoin.com
 buy.coinbase.com
 calc.btgpool.pro
 cann.suprnova.cc
+capitain.noblock.pro
 capodannoinversilia.com
+captain.noblock.pro
 captchas.freebitco.in
 carrel.services
 cdn.cloudcoins.co
@@ -166,6 +168,7 @@ cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
 changelly.com
+charlie.noblock.pro
 chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
@@ -495,6 +498,7 @@ ico.ditcoin.io
 images.coinbase.com
 im.forre.st
 img.pr0gramm.com
+infamylists.com
 influx.miningpoolhub.com
 info.bitcoin.de
 ipv6.freebitco.in
@@ -503,6 +507,7 @@ itcareers.hashcoins.com
 iwanttoearn.money
 ja.changelly.com
 jackpotcoin.miningpoolhub.com
+jasmine.noblock.pro
 jira.prohashing.com
 joyreactor.cc
 jroqvbvw.info
@@ -693,6 +698,7 @@ new.supportxmr.com
 nicehash.com
 nist5.usa.nicehash.com
 nitsche.top
+noblock.pro
 node1.mycelium.com
 node1.xmr-tw.org
 node2.mycelium.com
@@ -744,6 +750,7 @@ pasl.suprnova.cc
 pat.ron.si
 payments.changelly.com
 pc.crypto-coins.club
+pdf-1.infamylists.com
 pepe.suprnova.cc
 phkttm64gbquasaq.onion
 phoenixcoin.miningpoolhub.com
@@ -1088,6 +1095,7 @@ woork.sbhmn-miner.com
 world.wemineltc.com
 worm.suprnova.cc
 wp.bitcoin.cz
+wp-content.infamylists.com
 ws000.coinhive.com
 ws001.authedmine.com
 ws001.coinhive.com
@@ -1393,6 +1401,7 @@ www.hashcoins.ee
 www.hashcoins.ru
 www.hashflare.io
 www.hashforcash.us
+www.infamylists.com
 www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com
@@ -1439,6 +1448,7 @@ www.webminerpool.com
 www.wemineltc.com
 www.ws.freebitco.in
 www.wsnew.freebitco.in
+www.wty46.com
 www.xmr-tw.org
 www.xzpool.com
 www.zenmine.pro
