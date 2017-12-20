@@ -85,6 +85,7 @@ api.slushpool.com
 api.staging.cryptokitties.co
 api-stratum.bitcoin.cz
 api.viaxmr.com
+api.youbit.co.kr
 app.antpool.com
 app.bitaccess.co
 app.btcchina.com
@@ -92,6 +93,7 @@ app.pr0gramm.com
 apps.ledgerwallet.com
 app.slushpool.com
 appv2.antpool.com
+app.youbit.co.kr
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
 ar.changelly.com
@@ -398,6 +400,7 @@ email.breadapp.com
 email.crypto-coins.club
 email.mail.faucethub.io
 email.moneroocean.stream
+email.yobit.net
 emc2.suprnova.cc
 eminer.net
 en.changelly.com
@@ -621,6 +624,7 @@ hashcoins.ru
 hashflare.io
 hashforcash.us
 hashgate.eu
+hashing.win
 hashrefinery.com
 hatevery.info
 help.cryptopay.me
@@ -637,6 +641,7 @@ h.nanopool.org
 hodl.suprnova.cc
 host.d-ns.ga
 hot.wemineltc.com
+hts.youbit.co.kr
 hub.miningpoolhub.com
 huiwiw.hit.gemius.pl
 hurensohn.pr0gramm.com
@@ -943,6 +948,7 @@ old.nicehash.com
 oldsupport.prohashing.com
 oload.info
 op.bitaccess.co
+openapi.youbit.co.kr
 openkatalog.com
 orb.dnb.io
 p2p-multipool.greengaming.de
@@ -956,6 +962,7 @@ pac.ecoinz.cz
 papoto.com
 paris01.minemonero.pro
 party-nngvitbizn.now.sh
+pascal3.science
 pascal.eu.nicehash.com
 pascal.usa.nicehash.com
 pasc-eu1.nanopool.org
@@ -1289,6 +1296,7 @@ token.breadapp.com
 tokio01.minemonero.pro
 toshi.bitaccess.co
 tracking.freebitco.in
+trade.youbit.co.kr
 transfer.bitaccess.co
 tratum.bitcoin.cz
 trezor.bitcoin.cz
@@ -1828,6 +1836,8 @@ www.www2.coinmine.pl
 www.xmr-tw.org
 www.xzpool.com
 www.ybcoin.com
+www.yobit.net
+www.youbit.co.kr
 www.ypool.net
 www.zenmine.pro
 www.zpool.ca
@@ -1872,9 +1882,11 @@ xmr-usa.dwarfpool.com
 xmr-us-east1.nanopool.org
 xmr-us.suprnova.cc
 xmr-us-west1.nanopool.org
+xnode15.yobit.net
 xpool.net
 xre.suprnova.cc
 xsecurity.fblaster.com
+xt917.yobit.net
 xy.nullrefexcep.com
 xzc.suprnova.cc
 xzpool.com
@@ -1883,6 +1895,8 @@ ybc.coinmine.pl
 ybcoin.com
 ybh.ybcoin.com
 yescrypt.mine.zpool.ca
+yobit.net
+youbit.co.kr
 youporn.sexy
 ypool.net/
 zabbix.minemonero.pro
