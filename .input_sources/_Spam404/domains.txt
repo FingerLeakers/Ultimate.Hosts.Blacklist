@@ -990,6 +990,7 @@ csgohead.pro
 csgohypetrade.com
 csgo-inject.com
 csgo-injected.com
+csgoinrate.com
 csgoioung.com
 csgoitems.trading
 csgoiunge.com
@@ -5017,6 +5018,7 @@ steam-cards.com
 steamchristmas.com
 steamcode.org
 steamcodes4free.com
+steam-coin.us
 steamcommnnity.com
 steamcommulty.com
 steamcommuneity.com
