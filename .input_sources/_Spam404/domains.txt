@@ -1,5 +1,6 @@
 0daygameparadise.com
 0hacks.com
+0pencase.com
 100arcade.com
 100extensionsforgames.com
 100giveaways.com
@@ -606,7 +607,6 @@ cheatsandroid.com
 cheatsbar.com
 cheatsbasis.com
 cheatsbomb.com
-cheatsbuddy.com
 cheatscastle.com
 cheatscave.com
 cheatsclashofclans.com
@@ -3894,6 +3894,7 @@ minecraftpromotions.com
 minecraftps3.net
 minecraft-server.com
 minecraftserverforfree.com
+minglecase.com
 minihosted.com
 minionrush.freehakz.com
 mini-pic.su
@@ -5013,6 +5014,7 @@ statuscheck.biz
 steaacommunity.com
 steacommnuiity.com
 steacommunlity.com
+steacommurity.com
 steamanaylst.com
 steamaommunity.com
 steam-cards.com

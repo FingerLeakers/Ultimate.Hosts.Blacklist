@@ -3542,7 +3542,6 @@ cheatsbomb.com^
 realmofthemadgoditemhack.com^
 shockcheats.com^
 hacksday.com^
-cheatsbuddy.com^
 50shadesofgreydownload.net^
 jeuxpsvitagratuit.com^
 waystohack.com^
@@ -5839,3 +5838,6 @@ space-skins.com^
 csgoinrate.com^
 steam-coin.us^
 csgolevar.com^
+0pencase.com^
+steacommurity.com^
+minglecase.com^
