@@ -957,6 +957,7 @@ csgo2happy.com
 csgo2lotto.com
 csgo2lucky.com
 csgo2you.com
+csgo.ae
 csgoaimbot.com
 csgoallbets.com
 csgo-amazing.com
@@ -967,6 +968,7 @@ csgobigbet.com
 csgobong.com
 csgoboom.net
 csgo-boss.com
+csgobot.store
 csgobulls.com
 csgocake.com
 csgocasefun.com
@@ -988,6 +990,7 @@ csgoeasy.money
 csgoelect.com
 csgoelemental.com
 csgoexc.com
+csgofastrade.com
 csgofast.trade
 csgofine.com
 csgofireboom.com
@@ -1005,6 +1008,7 @@ csgoguesswin.com
 csgo-hacks.com
 csgohall.com
 csgohead.pro
+csgohunt.trade
 csgohypetrade.com
 csgo-inject.com
 csgo-injected.com
@@ -1026,9 +1030,11 @@ csgoletswin.com
 csgoletwin.com
 csgolevar.com
 csgolightspot.com
+csgolounge.exchange
 csgolounge.money
 csgolounge.trade
 csgoluckywheel.com
+csgoluxetrade.com
 csgolympia.com
 csgomagnatcase.com
 csgomakeyourbet.com
@@ -1080,7 +1086,11 @@ csgotopplay.com
 csgotoptrader.pro
 csgo-tournament.com
 csgotradearea.com
+csgotradefly.com
+csgotradegun.com
+csgotradejet.com
 csgotrader.deals
+csgotrade.zone
 csgottr.com
 csgoturbobets.com
 csgoup.gg
@@ -1231,7 +1241,9 @@ doppler-roulette.com
 dota2betakeys.hasbeenhacked.org
 dota2betakeys.org
 dota2exchange.online
+dota2-exchanger.online
 dota2maphack.org
+dota2.money
 dota2money.ru
 dota2swap.site
 dota2tool.su
@@ -1549,6 +1561,7 @@ ezhackfacebook.com
 ezhacks.org
 ezhotdownload.com
 ezloaded.com
+ezskins.trade
 ez-trade.org
 ezuploaded.com
 ezzdrop.com
@@ -2915,6 +2928,7 @@ gurugiftcards.com
 guzgame.com
 gxprocord.com
 h1z1echange.com
+h1z1trade.online
 hack1000.com
 hack2all.com
 hack2k.com
@@ -3305,6 +3319,7 @@ hearthstone-keys.info
 hearthstonetool.com
 heatherfallonphotography.com
 heaven4cheats.eu
+hellcase.io
 hellcase.money
 hellpoint.net
 hellswap.com
@@ -3790,6 +3805,7 @@ lordhacks.com
 lost-appledevice.com
 lostmovie.net
 loudtalk.net
+loungebots.com
 lovefilm21.com
 loveling.info
 lovelyfreindsvisit.com
@@ -4428,6 +4444,7 @@ planetside2-hacks.com
 plantsvszombies2download.me
 plantsvszombies2pc.com
 plantszombies.newzgames.com
+playbattlegrounds.trade
 play-beta.com
 playcapt.com
 playdowncenter.com
@@ -4888,6 +4905,7 @@ shareuptodate.com
 sharezips.info
 sharezips.net
 sharfiles.com
+sharkcase.net
 sharkreviews.com
 shar-m.com
 sharpdownloads.com
@@ -5202,6 +5220,7 @@ surveyremovertool.com
 surveysmasher.com
 swapstation.top
 swarmscape.com
+sweet-loot.com
 swiatbotow.pl
 swiftdownload.net
 swimcash.org
@@ -5381,12 +5400,15 @@ trade4real.org
 trade4real.pro
 tradebot.cc
 tradebot.online
+tradebot.site
 tradebot.top
 trade-cs.com
 tradecsgo.online
 tradecsgo.top
+tradefastskin.com
 tradego.pro
 tradego.store
+trade-kniwes.com
 tradeoffer48.online
 trades-arena.com
 trainercrackkey.com
