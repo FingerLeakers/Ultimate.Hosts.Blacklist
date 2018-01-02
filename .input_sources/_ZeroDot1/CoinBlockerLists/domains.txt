@@ -369,6 +369,7 @@ cross.coinone.co.kr
 crosspush.coinone.co.kr
 cryptity.com
 cryptmonero.com
+cryptobara.com
 crypto-coins.club
 crypto.csgocpu.com
 cryptoescrow.eu
@@ -457,6 +458,7 @@ detector5.z.cash
 detector6.z.cash
 detector7.z.cash
 dev.coinlab.biz
+dev.cryptobara.com
 devel.nicehash.com
 developers.coinbase.com
 developers.cryptopay.me
@@ -471,6 +473,7 @@ dgbq.suprnova.cc
 dgbsha.poolto.be
 dgbs.suprnova.cc
 di.ckpool.org
+digger.cryptobara.com
 digibyte-groestl.miningpoolhub.com
 digibyte-qubit.miningpoolhub.com
 digibyte-skein.miningpoolhub.com
@@ -1026,6 +1029,7 @@ minemytraffic.com
 miner.bitcoin.cz
 miner.center
 minercircle.com
+miner.cryptobara.com
 minergate.com
 minerjet.com
 miner.nicehash.com
