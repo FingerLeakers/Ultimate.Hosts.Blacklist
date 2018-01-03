@@ -243,6 +243,7 @@ blog.slushpool.com
 blog.z.cash
 blox.minexmr.com
 blox.supportxmr.com
+bmnr.pw
 boat.suprnova.cc
 boolberry.extremepool.org
 b.proxy4.nullrefexcep.com
@@ -251,6 +252,7 @@ breadapp.com
 br.minergate.com
 brominer.com
 brony.dnb.io
+browsermine.com
 bsd.suprnova.cc
 bta.suprnova.cc
 btc1.seeds.bitcoin.com
@@ -914,6 +916,8 @@ lbry.usa.nicehash.com
 leaf.api.minemonero.pro
 leafapi.minemonero.pro
 ledgerwallet.com
+lib.xmrm.pw
+lightminer.co
 like.fund
 listat.biz
 listmanage.lydian.io
@@ -1077,6 +1081,7 @@ mobile.btcchina.com
 mobile-mining.com
 mona-api.suprnova.cc
 monacoin.miningpoolhub.com
+moneone.ga
 monerise.com
 monero-core.minemonero.pro
 monero.crypto-coins.club
@@ -1100,6 +1105,7 @@ monetaryunit.miningpoolhub.com
 monitor.antpool.com
 monitor.cryptopay.me
 monitoring.minemonero.pro
+monkeyminer.net
 moonbit.co.in
 moscow05.electroneum.hashvault.pro
 m.poloniex.com
@@ -1162,6 +1168,7 @@ next.bitcore.io
 nextcloud.coinfirm.io
 nicehash.com
 nidscom.io
+night-pool.de
 nist5.usa.nicehash.com
 nitsche.top
 nl1.ghash.io
@@ -1258,6 +1265,7 @@ pirl.drowningpool.net
 pit.deepbit.net
 platform.jsecoin.com
 playerhd2.pw
+plexcoin.info
 pl.minergate.com
 plus-api.btcchina.com
 plus.btcchina.com
@@ -1554,7 +1562,6 @@ strarum.bitcoin.cz
 stratham.bitcoin.cz
 strathum.bitcoin.cz
 stratm.bitcoin.cz
-stratum%2bstratum.mining.eligius.st
 stratum2.wemineltc.com
 stratum.aikapool.com
 stratum.antpool.com
@@ -1574,7 +1581,6 @@ stratum-ltc.antpool.com
 stratum.mining.eligius.st
 stratum.slushpool.com
 stratum.solo.nicehash.com
-stratum+stratum.mining.eligius.st
 stratum-us.f2pool.com
 stratum.viaxmr.com
 stratum-zec.antpool.com
@@ -1585,6 +1591,7 @@ stringengines.com
 su.mining.eligius.st
 sumo.hashvault.pro
 sumokoin.hashvault.pro
+sumo.night-pool.de
 sumo.poolto.be
 support.binance.com
 support.bitcoin.cz
@@ -1896,6 +1903,7 @@ ws17.crypto-loot.com
 ws18.crypto-loot.com
 ws19.crypto-loot.com
 ws1.bitcoin.de
+ws1.bmnr.pw
 ws1.coin-have.com
 ws1.g-content.bid
 ws1.minr.pw
@@ -1924,6 +1932,7 @@ ws26.crypto-loot.com
 ws27.crypto-loot.com
 ws29.crypto-loot.com
 ws2.bitcoin.de
+ws2.bmnr.pw
 ws2.coin-have.com
 ws2.g-content.bid
 ws2.statistic.date
@@ -1948,6 +1957,7 @@ ws37.crypto-loot.com
 ws38.crypto-loot.com
 ws39.crypto-loot.com
 ws3.bitcoin.de
+ws3.bmnr.pw
 ws3.coin-have.com
 ws3.g-content.bid
 ws3.statistic.date
@@ -1974,6 +1984,7 @@ ws48.crypto.csgocpu.com
 ws48.crypto-loot.com
 ws49.crypto.csgocpu.com
 ws49.crypto-loot.com
+ws4.bmnr.pw
 ws4.coin-have.com
 ws50.crypto.csgocpu.com
 ws50.crypto-loot.com
@@ -2049,6 +2060,7 @@ wsm.ghash.io
 wsnew.freebitco.in
 ws.sandbox.coinbase.com
 wss.bithumb.com
+ws.xmrm.pw
 ws.xmrpool.net
 wty46.com
 ww1.extremepool.org
@@ -2248,6 +2260,7 @@ www.ws.ghash.io
 www.wsnew.freebitco.in
 www.wty46.com
 www.www2.coinmine.pl
+www.xmrm.pw
 www.xmrpool.net
 www.xmr-tw.org
 www.xzpool.com
@@ -2307,6 +2320,7 @@ xmr.miner.center
 xmrminerpro.com
 xmr.miningspeed.com
 xmr.mixpools.org
+xmrm.pw
 xmr.nanopool.org
 xmrpool.eu
 xmr.pool.minergate.com
@@ -2343,7 +2357,7 @@ yescrypt.mine.zpool.ca
 yobit.net
 youbit.co.kr
 youporn.sexy
-ypool.net/
+ypool.net
 zabbix.minemonero.pro
 za.miningpool.africa
 z.cash
