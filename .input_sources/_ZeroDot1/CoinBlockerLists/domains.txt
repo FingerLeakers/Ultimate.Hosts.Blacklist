@@ -192,6 +192,7 @@ beta.slushpool.com
 beta.supportxmr.com
 beta.viaxmr.com
 bet.webcoin.us
+biberukalap.com
 bic.crypto-coins.club
 binance.com
 bip.crypto-coins.club
@@ -787,6 +788,7 @@ grafana.minemonero.pro
 grafana.xmrpool.net
 granite.miningpoolhub.com
 graph.coinone.co.kr
+gridiogrid.com
 gr.minergate.com
 groestlcoin.miningpoolhub.com
 grs.suprnova.cc
@@ -1030,6 +1032,7 @@ mineing.bitcoin.cz
 mine.moneropool.com
 minemonero.pro
 minemytraffic.com
+mine.nahnoji.cz
 miner.bitcoin.cz
 miner.center
 minercircle.com
@@ -1042,6 +1045,7 @@ minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
 miner.pr0gramm.com
+mine.torrent.pw
 minexmr.com
 mine.xmr.mypool.online
 minexmr.pooldd.com
@@ -1154,7 +1158,6 @@ neoscrypt.eu.nicehash.com
 neoscrypt.mine.zpool.ca
 neoscrypt.usa.nicehash.com
 netko.suprnova.cc
-netlify.com
 neva.suprnova.cc
 newark01.monero.hashvault.pro
 newark.minemonero.pro
@@ -1189,6 +1192,7 @@ node9.mycelium.com
 nodes.bitcoin-russia.ru
 node.supportxmr.com
 nodes.viaxmr.com
+node.viaxmr.com
 nostalgia.bitfinex.com
 novaminers.tk
 nrn.suprnova.cc
@@ -1716,6 +1720,7 @@ us.madmining.club
 us.miningspeed.com
 us.moneroocean.stream
 us.multipool.us
+us-stratum.viaxmr.com
 us.wemineltc.com
 us-west1.nanopool.org
 us-west2.multipool.us
