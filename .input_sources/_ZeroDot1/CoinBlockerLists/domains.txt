@@ -44,6 +44,7 @@ altpool.pro
 amlt.coinfirm.io
 amsterdam01.minemonero.pro
 andrew.nullrefexcep.com
+androidapk.world
 angstrom.genesis-mining.com
 anime.reactor.cc
 antpool.com
@@ -335,6 +336,7 @@ cloud.hashcoins.com
 cloudmediacdn.com
 cloudmedia.gdn
 cloud-wp.org
+cloudzad.com
 cms.btcchina.com
 cn.btcchina.com
 cn.changelly.com
@@ -825,6 +827,7 @@ goldnova.crypto.csgocpu.com
 go.megabanners.cf
 goodolddownloads.com
 google.gus.host
+goredirect.party
 grafana.lindon-pool.win
 grafana.minemonero.pro
 grafana.xmrpool.net
@@ -923,6 +926,9 @@ jira.prohashing.com
 joinslack.binance.com
 joinus.coinfirm.io
 joyreactor.cc
+jqcdn01.herokuapp.com
+jqcdn03.herokuapp.com
+jqcdn2.herokuapp.com
 jquerystatistics.org
 jroqvbvw.info
 jsccnn.com
@@ -1203,12 +1209,18 @@ mwnodes.viaxmr.com
 mx1.coinfirm.io
 mx2.coinfirm.io
 mx3.coinfirm.io
+mxcdn1.now.sh
+mxcdn2.now.sh
 mx.cryptonator.com
 mx.kippo.eu
 mx.mycelium.com
 mx.nanopool.org
 mx.zpool.ca
 mycelium.com
+myetherermwallet.com
+myètherwället.com
+mÿethèrwallét.com
+myethwalilet.com
 myfhology.sbhmn-miner.com
 myfreebitcoin.com
 my.hashflare.io
@@ -1271,6 +1283,7 @@ nodes.viaxmr.com
 node.viaxmr.com
 nostalgia.bitfinex.com
 novaminers.tk
+npcdn1.now.sh
 nrn.suprnova.cc
 ns1alt.poloniex.com
 ns1.cryptmonero.com
@@ -1705,6 +1718,11 @@ sv1.kano.is
 sv.hashcoin.io
 swanson.ron.si
 sweep.suprnova.cc
+sxcdn02.now.sh
+sxcdn1.herokuapp.com
+sxcdn4.now.sh
+sxcdn5.herokuapp.com
+sxcdn6.now.sh
 sydney01.minemonero.pro
 sydney01.monero.hashvault.pro
 sys.poolto.be
@@ -1761,6 +1779,7 @@ uni.suprnova.cc
 united.wemineltc.com
 unlock.suprnova.cc
 updates.getmonero.org
+upload-center.byethost4.com
 uro.miningpoolhub.com
 uro.suprnova.cc
 us1.bitcoin.cz
@@ -1849,6 +1868,7 @@ wallet-backend.bitcoin.com
 wallet.bitcoin.com
 wallet.btcchina.com
 wallet.btgpool.pro
+wallet-ethereum.com
 wallet.eth.mypool.online
 wallets.bitcoin.com
 wallet.ybcoin.com
@@ -1886,6 +1906,7 @@ woork.sbhmn-miner.com
 world.wemineltc.com
 worm.suprnova.cc
 wp.bitcoin.cz
+wpcdn1.herokuapp.com
 wpconnect.org
 wp-content.infamylists.com
 wp-monero-miner.de
