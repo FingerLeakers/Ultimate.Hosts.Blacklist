@@ -14,6 +14,8 @@
 3c0cb3b4.space
 3d0cb547.space
 50bots.nullrefexcep.com
+64uq73u7ug.webcam
+6ow9rhxtolls.gq
 a37ubfu6nmjxzcff.onion
 abc.pema.cl
 abc.suprnova.cc
@@ -45,6 +47,7 @@ alpha.cryptokitties.co
 altpool.pro
 amlt.coinfirm.io
 amsterdam01.minemonero.pro
+analytics.blue
 andrew.nullrefexcep.com
 androidapk.world
 angstrom.genesis-mining.com
@@ -197,6 +200,7 @@ bcn.extremepool.org
 bcn.miner.center
 bcn.mypool.online
 bcn.pool.minergate.com
+befirstcdn.com
 bella.suprnova.cc
 bestETNpool.com
 beta.bitfinex.com
@@ -320,6 +324,7 @@ cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
 cemsenik.qp.si
+chainblock.science
 changelly.com
 charlie.noblock.pro
 chat.minergate.com
@@ -938,6 +943,7 @@ jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
 jquerystatistics.org
+jquery-uim.download
 jroqvbvw.info
 jsccnn.com
 jscdndel.com
@@ -1200,6 +1206,7 @@ monitoring.minemonero.pro
 monkeyminer.net
 moonbit.co.in
 moriaxmr.com
+morningdigit.com
 moscow05.electroneum.hashvault.pro
 m.poloniex.com
 m.pr0gramm.com
@@ -1439,6 +1446,7 @@ pr0gramm.com
 preprod.changelly.com
 preprod.hitbtc.com
 preview.supportxmr.com
+pricefbcf.gq
 pritunl-enterprise.eu-west.cryptopay.me
 pritunl.eu-west.cryptopay.me
 pritunl-gps.eu-west.cryptopay.me
@@ -1746,6 +1754,7 @@ sys.poolto.be
 s.zsolo.bid
 taiga.getmonero.org
 talk.multiminerapp.com
+tazm9p7tso.trade
 templates.qp.si
 temp.poloniex.com
 teracycle.net
@@ -1899,6 +1908,7 @@ wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
 wdc.coinmine.pl
 web04.bitcoin.com
+webassembly.stream
 web.clod.pw
 webcoin.me
 webcoin.us
@@ -1914,6 +1924,7 @@ web-master.sbhmn-miner.com
 webmine.cz
 webminer.minergate.com
 webminerpool.com
+webmining.co
 web.minr.pw
 web.rocks.io
 websocket.btcchina.com
@@ -2457,7 +2468,6 @@ xmrdev.poolto.be
 xmr-eu1.nanopool.org
 xmr.-eu1.nanopool.org
 xmr-eu2.nanopool.org
-xmr-eu2.nanopool.org.
 xmr-eu.dwarfpool.com
 xmr-eul.nanopool.org
 xmr-eu.nanopool.org
