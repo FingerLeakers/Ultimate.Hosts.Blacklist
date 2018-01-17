@@ -512,6 +512,7 @@ dgbg.suprnova.cc
 dgbq.suprnova.cc
 dgbsha.poolto.be
 dgbs.suprnova.cc
+dgnfd564sdf.com
 di.ckpool.org
 digger.cryptobara.com
 digibyte-groestl.miningpoolhub.com
@@ -919,6 +920,7 @@ insight.bitcore.io
 insight.bitpay.com
 intense.hashvault.pro
 internal.poloniex.com
+Internetresearch.is
 inviteme.z.cash
 io.bitpay.com
 io.litecoinpool.org
@@ -1007,6 +1009,7 @@ lmodr.biz
 load.jsecoin.com
 local.ckpool.org
 localhost.miningspeed.com
+lochjol.com
 login.bitcoin.cz
 login.coinbase.com
 logs.z.cash
