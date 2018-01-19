@@ -1,3 +1,4 @@
+0aqpqdju.me
 115776615-884492032168661957.preview.editmysite.com
 1beb2a44.space
 1q2w3.me
@@ -14,13 +15,17 @@
 3c0cb3b4.space
 3d0cb547.space
 50bots.nullrefexcep.com
+5vz3cfs0yd.me
 64uq73u7ug.webcam
 6ow9rhxtolls.gq
+6tsbe1zs.me
+8jd2lfsq.me
 a37ubfu6nmjxzcff.onion
 abc.pema.cl
 abc.suprnova.cc
 about.coinfirm.io
 ad.antpool.com
+adbtc.top
 ad.g-content.bid
 ad-miner.com
 adminer.com
@@ -147,6 +152,7 @@ app.youbit.co.kr
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
 apt.z.cash
+aqqgli3vle.bid
 ar.changelly.com
 aricoin.miningpoolhub.com
 aservices.party
@@ -184,6 +190,7 @@ autodiscover.cryptominingpool.eu
 autodiscover.ditcoin.io
 auto.hashcoins.com
 avatar.pr0gramm.com
+avualrhg9p.bid
 azvjudwr.info
 back4.2giga.link
 baiduccdn1.com
@@ -250,6 +257,7 @@ bitpay.com
 bittip.coinbase.com
 bittrex.com
 bitzfree.com
+bizoninvest.com
 bjorksta.men
 blake2s.eu.nicehash.com
 blake2s.hk.nicehash.com
@@ -302,6 +310,7 @@ buy.bitcoin.com
 buy.coinbase.com
 bws.bitpay.com
 bytecoin.miner.center
+c0i8h8ac7e.bid
 c7e935.netlify.com
 cabinet-backend.cryptopay.me
 ca.cryptity.com
@@ -352,6 +361,7 @@ cn.changelly.com
 cn.cryptonator.com
 cndhit.xyz
 cn.dogecoin.dog
+cn.dwarfpool.com
 cnhv.co
 cn.minergate.com
 cn.stratum.slushpool.com
@@ -437,6 +447,7 @@ custody.coinbase.com
 cwsa.minergate.com
 d1e1rbybdt265x.cloudfront.net
 d1.eth.pp.ua
+d3ahinqqx1dy5v.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
 daggerhashimoto.br.nicehash.com
 daggerhashimoto.eu.nicehash.com
@@ -529,6 +540,7 @@ dnsseed.litecoinpool.org
 dnsseed.testnet.z.cash
 dnsseed.z.cash
 dns.testnet.z.cash
+do69ifsly4.me
 doc.coinone.co.kr
 docker.f2pool.com
 docs.bitfinex.com
@@ -551,6 +563,7 @@ dsh.tugae2.com
 duck.extremepool.org
 duck.pool.minergate.com
 durinsmine.com
+dwarfpool.com
 eac.suprnova.cc
 edgeno.de
 eeme7je.win
@@ -591,6 +604,7 @@ equihash.jp.nicehash.com
 equihash.mine.zpool.ca
 equihash.mypool.online
 equihash.usa.nicehash.com
+erebor.dwarfpool.com
 eruuludam.mn
 es.changelly.com
 escobar.pr0gramm.com
@@ -750,6 +764,7 @@ feedback.poolmining.org
 feed.exchange.coinbase.com
 fees.xmrig.com
 fee.xmrig.com
+fge9vbrzwt.bid
 files.cryptopay.me
 filetransfer.coinbase.com
 fi.minergate.com
@@ -799,6 +814,7 @@ front2.coinfirm.io
 front.hashflare.io
 front-stage.hashflare.io
 fr-zecdcr-backup.suprnova.cc
+f.sunnyjuly.gq
 ftc.dnb.io
 ftc.suprnova.cc
 ftp.bitcoin.cz
@@ -867,6 +883,7 @@ hashgate.eu
 hashing.win
 hashinvest.ws
 hashrefinery.com
+hashto.cash
 hash-to-coins.com
 hashunited.com
 hashvault.pro
@@ -901,12 +918,14 @@ hush.2miners.ru
 hushmine.pro
 hush.poolto.be
 hush.suprnova.cc
+hzsod71wov.me
 icarus.phoenixcoin.org
 ico.cryptopay.me
 ico.ditcoin.io
 ico.lydian.io
 id.cryptonator.com
 id.minergate.com
+iisl7wpf.me
 images.coinbase.com
 im.forre.st
 img.pr0gramm.com
@@ -931,12 +950,14 @@ ipv6.freebitco.in
 irc.minemonero.pro
 issues.multiminerapp.com
 itcareers.hashcoins.com
+itgpll.com
 it.minergate.com
 iwanttoearn.money
 i.zsw8.cc
 ja.changelly.com
 jackpotcoin.miningpoolhub.com
 jasmine.noblock.pro
+jhondi33.duckdns.org
 jira.prohashing.com
 joinslack.binance.com
 joinus.coinfirm.io
@@ -961,6 +982,7 @@ kc.ybcoin.com
 kdowqlpt.info
 keccak.eu.nicehash.com
 kgd.node.krb.mypool.online
+kho3au7l4z.me
 kippo.eu
 kissdoujin.com
 kisshentai.net
@@ -1128,6 +1150,7 @@ mine.pirl.mypool.online
 miner.bitcoin.cz
 miner.center
 minercircle.com
+minerclaim.net
 miner.cryptobara.com
 minergate.com
 minerjet.com
@@ -1208,6 +1231,7 @@ monitoring.lindon-pool.win
 monitoring.minemonero.pro
 monkeyminer.net
 moonbit.co.in
+moria.dwarfpool.com
 moriaxmr.com
 morningdigit.com
 moscow05.electroneum.hashvault.pro
@@ -1218,6 +1242,7 @@ mro.extremeool.org
 mro.extremepool.org
 mro.pool.minergate.com
 mro.poolto.be
+mr-usa.dwarfpool.com
 multicoin.eu
 multi.ghash.io
 multiminerapp.com
@@ -1307,6 +1332,7 @@ node.viaxmr.com
 nostalgia.bitfinex.com
 novaminers.tk
 npcdn1.now.sh
+npdaqy6x1j.me
 nrn.suprnova.cc
 ns1alt.poloniex.com
 ns1.cryptmonero.com
@@ -1319,6 +1345,7 @@ ns4alt.poloniex.com
 nullrefexcep.com
 nwx1.btcchina.com
 ny1.minez.zone
+ny7f6goy.bid
 ny.cryptity.com
 o1.email.bitpay.com
 o1.email.bittrex.com
@@ -1474,10 +1501,12 @@ proxy8.nullrefexcep.com
 proxy9.nullrefexcep.com
 proxy-khlizawelj.now.sh
 proxy.nullrefexcep.com
+p.sunnyjuly.gq
 public.deltapool.net
 public.poloniex.com
 public.sandbox.exchange.coinbase.com
 publicvm.com
+pumpmywallet.com
 pure.suprnova.cc
 push.coinone.co.kr
 push.poloniex.com
@@ -1497,6 +1526,7 @@ qtl.suprnova.cc
 qtum.changelly.com
 quark.miningpoolhub.com
 quazar.miner.center
+r8nu86wg.me
 rain.suprnova.cc
 ra.mining.eligius.st
 ratchetcoins.nl
@@ -1638,6 +1668,7 @@ sql.eth.pp.ua
 src.coinmine.pl
 srv01.bitcoiner.win
 srv02.bitcoiner.win
+s.sunnyjuly.gq
 stage.bittrex.com
 stage.breadapp.com
 stage.cross.coinone.co.kr
@@ -1723,6 +1754,7 @@ sumokoin.hashvault.pro
 sumo.lindon-pool.win
 sumo.night-pool.de
 sumo.poolto.be
+sunnyjuly.gq
 support.binance.com
 support.bitcoin.cz
 support.bitfinex.com
@@ -1780,6 +1812,7 @@ testnet.z.cash
 thread.multiminerapp.com
 thumb.pr0gramm.com
 tix.coinmine.pl
+todogecoin.biz
 token.breadapp.com
 tokensale.lydian.io
 tokio01.minemonero.pro
@@ -1799,6 +1832,7 @@ ubiq.suprnova.cc
 ubq.mypool.online
 ubq.poolto.be
 ucrypto.net
+uebawtz7.me
 ufocoin.miningpoolhub.com
 u.forre.st
 uk1.ghash.io
@@ -1892,6 +1926,8 @@ vip48.wemineltc.com
 vip.btcchina.com
 vip.slushpool.com
 virtualminingcoin.miningpoolhub.com
+vjcyehtqm9.me
+vl8c4g7tmo.me
 voip.z.cash
 vpn.coinfirm.io
 vps.btgpool.pro
@@ -1925,6 +1961,8 @@ webmail.tugae2.com
 webmail.xzpool.com
 web-master.sbhmn-miner.com
 webmine.cz
+webminepool.com
+webminepool.tk
 webminer.minergate.com
 webminerpool.com
 webmining.co
@@ -2209,8 +2247,10 @@ wsg.minergate.com
 ws.ledgerwallet.com
 wsm.ghash.io
 wsnew.freebitco.in
+wsp.marketgid.com
 ws.sandbox.coinbase.com
 wss.bithumb.com
+w.sunnyjuly.gq
 ws.xmrm.pw
 ws.xmrpool.net
 wty46.com
@@ -2302,6 +2342,7 @@ www.dogecoin.dog
 www.dogepool.rf.gd
 www.downloads.getmonero.org
 www.drowningpool.net
+www.dwarfpool.com
 www.eligius.st
 www.engineering.coinbase.com
 www.etcmine.pro
@@ -2445,6 +2486,7 @@ xdn.pool.minergate.com
 xdn.poolto.be
 xdn-xmr.pool.minergate.com
 xevan.mine.zpool.ca
+xgmc6lu8fs.me
 xlc.crypto-coins.club
 xmd.mypool.name
 xmd.poolto.be
@@ -2584,6 +2626,7 @@ zen.miningspeed.com
 zen.poolto.be
 zen.suprnova.cc
 zero.suprnova.cc
+zgdfz6h7po.me
 z.lindon-pool.win
 znode2.coinpool.cloud
 znode3.coinpool.cloud
@@ -2592,3 +2635,4 @@ znode.lindon-pool.win
 zpool.ca
 zrc-stratum.suprnova.cc
 zsw8.cc
+zxc1-ustokyyneikyfasnm.stackpathdns.com
