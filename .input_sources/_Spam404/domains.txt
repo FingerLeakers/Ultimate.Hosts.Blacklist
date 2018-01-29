@@ -988,6 +988,7 @@ csgobot.store
 csgobulls.com
 csgobuster.com
 csgocake.com
+csgo-capital.online
 csgocasefun.com
 csgocasino.su
 csgocasino-winning.su
@@ -1060,6 +1061,8 @@ csgolounge.exchange
 csgolounge.money
 csgolounge.trade
 csgoluckywheel.com
+csgo-luxe.top
+csgoluxe.top
 csgoluxetrade.com
 csgolympia.com
 csgomagnatcase.com
@@ -1076,6 +1079,7 @@ csgoplaytowin.com
 csgopoiygon.com
 csgoproskins.com
 csgo-protected.ru
+csgo-quick.online
 csgoranger.com
 csgoravebet.com
 csgorealwin.com
@@ -2684,6 +2688,7 @@ geek-pc.net
 gelatogems.com
 gem24.net
 gemsclashofclans.com
+gems-community.com
 gemshackclash.com
 genbux.me
 generadordepsn.com
@@ -4759,6 +4764,7 @@ rarpasswordunlocker.info
 rarshare.com
 rasahack.com
 ravageskins.com
+razerbets.com
 razergiveaway.com
 razergo.com
 razeron.com
