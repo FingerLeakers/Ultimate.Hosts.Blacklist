@@ -61,6 +61,7 @@ alimabi.cn
 allports-1.lindon-pool.win
 alpha.cryptokitties.co
 altpool.pro
+america.monerise.com
 amlt.coinfirm.io
 amsterdam01.minemonero.pro
 analitics-service.com
@@ -96,6 +97,7 @@ api.bitcoin.cz
 api.bitcoin.de
 api.bitfinex.com
 api.bithumb.com
+apib.monerise.com
 api.btcchina.com
 api.changelly.com
 api.coinbase.com
@@ -128,6 +130,7 @@ api.l33tsite.info
 api.ledgerwallet.com
 api.minemonero.pro
 api.minergate.com
+api.minero.cc
 api.minexmr.com
 api.mixin.lindon-pool.win
 api.monerise.com
@@ -139,6 +142,7 @@ api.multipool.us
 api.music.mypool.online
 api.nanopool.org
 api.nicehash.com
+apin.monerise.com
 api.nnc.mypool.online
 api.pirl.mypool.online
 api.poloniex.com
@@ -194,6 +198,7 @@ asia.expmine.pro
 asia.hushmine.pro
 asia.madmining.club
 asia.miningspeed.com
+asia.monerise.com
 asia.monero.miningpoolhub.com
 asia.zclmine.pro
 asia.zenmine.pro
@@ -218,6 +223,7 @@ autoconfig.ditcoin.io
 autodiscover.cryptominingpool.eu
 autodiscover.ditcoin.io
 auto.hashcoins.com
+auto.monerise.com
 avatar.pr0gramm.com
 avualrhg9p.bid
 axiom.br.nicehash.com
@@ -471,6 +477,7 @@ charlie.noblock.pro
 chat.minergate.com
 chc.suprnova.cc
 checkcoin.miningpoolhub.com
+chekazpools.com
 chicago01.aeon.hashvault.pro
 chicago01.electroneum.hashvault.pro
 cirkev.bitcoin.cz
@@ -553,6 +560,7 @@ coinotron.com
 coinpirate.cf
 coinpool.cloud
 coinpot.co
+coinrail.io
 coins.arstechnica.com
 coin-service.com
 coinspool.cu.cc
@@ -566,6 +574,7 @@ colnhive.com
 com-http.us
 community.bitfinex.com
 community.coinbase.com
+community.monerise.com
 confluence.prohashing.com
 conhive.com
 connect.pool.bitcoin.com
@@ -706,6 +715,7 @@ deepc.cc
 de.kano.is
 deltapool.net
 de.minergate.com
+de.minexmr.com
 demo-api.hitbtc.com
 demo.hitbtc.com
 de.moneroocean.stream
@@ -943,6 +953,7 @@ eu1.ethpool.org
 eu1.nanopool.org
 eu1.zenmine.pro
 eu2.ethermine.org
+eu2.monerise.com
 eu2.multipool.us
 eu2.wemineltc.com
 eu2.zenmine.pro
@@ -960,12 +971,14 @@ eu.ltcrabbit.com
 eu.madmining.club
 eu.miningfield.com
 eu.miningspeed.com
+eu.monerise.com
 eu.multipool.us
 eu.pool.graft.network
 europe1.darkcoin.miningpoolhub.com
 europe.cryptonight-hub.miningpoolhub.com
 europe.equihash-hub.miningpoolhub.com
 europe.ethash-hub.miningpoolhub.com
+europe.monerise.com
 europe.monero.miningpoolhub.com
 europe.zcoin.miningpoolhub.com
 eu-stratum.bitcoin.cz
@@ -1111,6 +1124,7 @@ freshrefresher.com
 friendshipcoin.miningpoolhub.com
 fr.kano.is
 fr.minergate.com
+fr.minexmr.com
 front2.coinfirm.io
 front.hashflare.io
 front-stage.hashflare.io
@@ -1225,6 +1239,7 @@ hashvault.pro
 hashzone.io
 hatcalter.com
 hatevery.info
+hbn.smartmining.net
 hcn.cryptopool.pro
 hcn.hashmining.online
 hegrinhar.com
@@ -1486,6 +1501,7 @@ lyra2rev2.hk.nicehash.com
 lyra2rev2.in.nicehash.com
 lyra2rev2.jp.nicehash.com
 lyra2rev2.usa.nicehash.com
+m001.monerise.com
 m7m.mine.zpool.ca
 maaapi.mooo.com
 m-a.btcchina.com
@@ -1533,6 +1549,7 @@ mail.tugae2.com
 mail.webcoin.us
 mail.ypool.net
 mailzimbra.nanopool.org
+main.minero.cc
 mainnet.z.cash
 main.xmrpool.net
 manila-1.xmrpool.net
@@ -1540,6 +1557,7 @@ m.anyfiles.ovh
 map.bitaccess.co
 map.bitcoin-russia.ru
 maps.bitaccess.co
+marcycoin.org
 mar.suprnova.cc
 mataharirama.xyz
 mattermost.getmonero.org
@@ -1603,6 +1621,7 @@ minerhills.com
 minerjet.com
 miner.nablabee.com
 miner.nicehash.com
+minero.cc
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
@@ -1792,6 +1811,8 @@ myriadcoin-yescrypt.miningpoolhub.com
 mytlnerwalilet.info
 myttherwalet.com
 nagios.z.cash
+na.minexmr.com
+na.monerise.com
 nanopool.org
 nathetsof.com
 ndc.bitember.com
@@ -1887,6 +1908,7 @@ o2.email.bittrex.com
 o3.email.bittrex.com
 o4.email.bittrex.com
 ocean.cryptoloot.pro
+oc.monerise.com
 oc.suprnova.cc
 oec.extremepool.org
 office.poloniex.com
@@ -1903,7 +1925,9 @@ oo000oo.me
 op.bitaccess.co
 openapi.youbit.co.kr
 openkatalog.com
+orb.chekazpools.com
 orb.dnb.io
+orb.smartmining.net
 p2p-multipool.eu
 p2p-multipool.greengaming.de
 p2pool.in
@@ -1915,6 +1939,7 @@ p2poolmining.de
 p2poolmining.net
 p2pool.neocities.org
 p2pool.org
+p5.minexmr.com
 pac.ecoinz.cz
 pandaminer.co
 pandapool.io
@@ -2020,6 +2045,7 @@ pool.ekanembtc.com
 pool.electroneum.hashvault.pro
 pool.eth.pp.ua
 pool.etn.spacepools.org
+pool.fonero.hashvault.pro
 pool.gigarho.com
 pool.gq
 pool.groupfabric.com
@@ -2175,12 +2201,16 @@ rot.ron.si
 rr.locationforexpert.com
 rsk.antpool.com
 rs.minergate.com
+rtw.monerise.com
 ru.changelly.com
 ru.cryptonator.com
 rufflet-api.cryptokitties.co
 rufflet.cryptokitties.co
 ru.minergate.com
 ru.moriaxmr.com
+s001.monerise.com
+s002.monerise.com
+s003.monerise.com
 s003.papoto.com
 s2.analytics.blue
 s3.analytics.blue
@@ -2188,6 +2218,7 @@ s3.minexmr.com
 sak.prohash.net
 sakthikaa.com
 sales.genesis-mining.com
+sa.monerise.com
 s.analytics.blue
 sandbox.coinbase.com
 sandbox.exchange.coinbase.com
@@ -2283,6 +2314,7 @@ skunk.eu.nicehash.com
 slack.bittrex.com
 slushpool.com
 smartcoin.miningpoolhub.com
+smartmining.net
 smectapop12.pl
 s.m.eligius.st
 smtp.cryptominingpool.eu
@@ -2526,6 +2558,7 @@ tokensale.lydian.io
 tokio01.minemonero.pro
 tokyo01.aeon.hashvault.pro
 tokyodrift.ga
+tor.monerise.com
 toshi.bitaccess.co
 trackerbuzz.info
 trackerdesk.pro
@@ -2682,6 +2715,7 @@ vtc.coinfoundry.org
 vtc.poolmining.org
 vxelkrhl.info
 w13.coinhive.com
+w1.minexmr.com
 wallet-backend.bitcoin.com
 wallet.bitcoin.com
 wallet.btcchina.com
@@ -2750,6 +2784,18 @@ wo15.coinhive.com
 wood.suprnova.cc
 woork.sbhmn-miner.com
 word200.duckdns.org
+worker0.minero.cc
+worker10.minero.cc
+worker1.minero.cc
+worker2.minero.cc
+worker3.minero.cc
+worker4.minero.cc
+worker5.minero.cc
+worker6.minero.cc
+worker7.minero.cc
+worker8.minero.cc
+worker9.minero.cc
+worker.minero.cc
 world.wemineltc.com
 worm.suprnova.cc
 wp.bitcoin.cz
@@ -3110,6 +3156,8 @@ ws.ledgerwallet.com
 wsm.ghash.io
 wsnew.freebitco.in
 wsp.marketgid.com
+wss-1.monerise.com
+wss-2.monerise.com
 ws.sandbox.coinbase.com
 wss.bithumb.com
 ws.tidafors.xyz
@@ -3275,6 +3323,7 @@ www.minecraftpool.com
 www.minemonero.pro
 www.miner.center
 www.minergate.com
+www.minero.cc
 www.minexmr.com
 www.minez.zone
 www.miningpoolhub.com
@@ -3282,6 +3331,7 @@ www.miningspeed.com
 www.minning.bitcoin.cz
 www.minr.pw
 www.mobile-mining.com
+www.monerise.com
 www.monero.crypto-pool.fr
 www.monero.crypto-webminer.com
 www.monerominer.rocks
