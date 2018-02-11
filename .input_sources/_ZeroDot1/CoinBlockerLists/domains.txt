@@ -473,6 +473,8 @@ cdns.ws
 cemsenik.qp.si
 cfcdist.gdn
 cfceu.duckdns.org
+cfcnet.gdn
+cfcs1.duckdns.org
 chainblock.science
 changelly.com
 charlie.noblock.pro
@@ -1132,6 +1134,7 @@ freecontent.info
 freecontent.loan
 freecontent.net
 freecontent.racing
+freecontent.stream
 freedom.wemineltc.com
 freshrefresher.com
 friendshipcoin.miningpoolhub.com
