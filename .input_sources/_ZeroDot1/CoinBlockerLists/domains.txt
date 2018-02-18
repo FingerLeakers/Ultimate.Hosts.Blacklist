@@ -24,6 +24,7 @@
 64uq73u7ug.webcam
 6ow9rhxtolls.gq
 6tsbe1zs.me
+8000plus.si
 8jd2lfsq.me
 a37ubfu6nmjxzcff.onion
 aba.ae
@@ -215,6 +216,7 @@ asicshack
 assets.coinbase.com
 assets.coincheck.com
 assets.lydian.io
+asvoxod.ru
 at01.supportxmr.com
 at02.supportxmr.com
 atlanta01.minemonero.pro
@@ -234,6 +236,7 @@ autodiscover.ditcoin.io
 auto.hashcoins.com
 auto.monerise.com
 avatar.pr0gramm.com
+avualrhg9p0.bid
 avualrhg9p.bid
 axiom.br.nicehash.com
 axiom.eu.nicehash.com
@@ -478,6 +481,7 @@ cdn2.inwemo.com
 cdn.adless.io
 cdn-analytics.pl
 cdn.cloudcoins.co
+cdn-code.host
 cdn.cookiescript.info
 cdnfile.xyz
 cdn.hashcoin.co
@@ -946,6 +950,7 @@ etherdelta.fund
 etherdelta.site
 ethereum-classic.miningpoolhub.com
 ethereum.miningpoolhub.com
+ethereumpool.club
 ethermine.org
 eth-eu1.nanopool.org
 eth-eu2.nanopool.org
@@ -1555,6 +1560,7 @@ london01.monero.hashvault.pro
 losangeles01.minemonero.pro
 losangeles01.monero.hashvault.pro
 losital.ru
+lottery-lists.freebitco.in
 louhimo.club
 lpool.name
 l-shop.nullrefexcep.com
@@ -2321,6 +2327,7 @@ readme.multiminerapp.com
 reasedoper.pw
 recycloped.com
 redwind.miner.center
+refresh-js.bitbucket.io
 refunevent.com
 registry.staging-eu-west.cryptopay.me
 relay.ypool.net
@@ -2579,6 +2586,7 @@ static.hk.rs
 static.minergate.com
 static-net.nut.cc
 static.reasedoper.pw
+staticsfs.host
 static.sparechange.io
 statistic.date
 stat.maalaimalar.com
@@ -2729,6 +2737,7 @@ thenewgamer.club
 thenewgamer.fun
 theonlineslot.bid
 theonlineslots.bid
+thepiratebay.cr
 theshoppingoffers.men
 theshoppingoffers.top
 theshoppingoffers.trade
@@ -3682,6 +3691,7 @@ xlc.crypto-coins.club
 xmd.mypool.name
 xmd.poolto.be
 xmg.suprnova.cc
+xml.mining.best
 xmr10.crypto-pool.fr
 xmr1.crypto-pool.fr
 xmr3.crypto-pool.fr
