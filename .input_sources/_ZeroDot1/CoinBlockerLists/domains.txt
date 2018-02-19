@@ -236,7 +236,6 @@ autodiscover.ditcoin.io
 auto.hashcoins.com
 auto.monerise.com
 avatar.pr0gramm.com
-avualrhg9p0.bid
 avualrhg9p.bid
 axiom.br.nicehash.com
 axiom.eu.nicehash.com
@@ -269,6 +268,7 @@ befirstcdn.com
 bella.suprnova.cc
 berserkpl.net.pl
 bestETNpool.com
+best-p2pool.eu
 bestxmrpool.com
 beta.bitfinex.com
 beta.coinbase.com
@@ -325,6 +325,7 @@ bitcoin.cz
 bitcoin.de
 bitcoiner.win
 bitcoinethereum.eu
+bitcoin.fastlink.pl
 bitcoin.mine.bz
 bitcoin.miningpoolhub.com
 bitcoin-russia.ru
@@ -434,8 +435,10 @@ browsermine.com
 bsd.suprnova.cc
 bta.suprnova.cc
 btc1.seeds.bitcoin.com
+btc.btgirl.com.cn
 btcchina.com
 btcd-us-tx.bravo-mining.com
+btc.poolbt.com
 btc.poolmining.eu
 btcprominer.life
 btc.suprnova.cc
@@ -495,6 +498,7 @@ cdn.rove.cl
 cdn.static-cnt.bid
 cdns.ws
 cemsenik.qp.si
+centralcavern.uk
 cfcdist.gdn
 cfceu.duckdns.org
 cfcnet.gdn
@@ -557,6 +561,7 @@ coinbase.com
 coinbin.org
 coinblind.com
 coinblockers.com
+coincadence.com
 coincheck.click
 coincheck.com
 coinerra.com
@@ -631,6 +636,7 @@ cqfnvznw.info
 crevacoin.miningpoolhub.com
 cross.coinone.co.kr
 crosspush.coinone.co.kr
+crunchpool.com
 cryptity.com
 cryptmonero.com
 cryptobara.com
@@ -1009,6 +1015,7 @@ eu2.zenmine.pro
 eu.bitcoin.cz
 eu.bohemianpool.com
 eu.btgpool.pro
+eu.centralcavern.uk
 eu.cfcnet.top
 eu.coinblockers.com
 eu.dbixmine.pro
@@ -1089,6 +1096,7 @@ fail.suprnova.cc
 fairpool.cloud
 fantom.miner.center
 faraday.mmpool.org
+fastlink.pl
 faucethub.io
 faucet.testnet.z.cash
 fbtc-audio.freebitco.in
@@ -1696,6 +1704,8 @@ mine.ella.mypool.online
 mine.etc.mypool.online
 mine.eth.mypool.online
 mine.exp.mypool.online
+minefast2.coincadence.com
+minefast.coincadence.com
 mine-for.us
 mine.graftpool.net
 mine.hashmining.online
@@ -1709,6 +1719,7 @@ minemonero.pro
 mine.music.mypool.online
 minemytraffic.com
 mine.nahnoji.cz
+mine.njbtcmine.net
 mine.nnc.mypool.online
 mine.pirl.mypool.online
 miner2.sighash.info
@@ -1749,6 +1760,7 @@ minin.bitcoin.cz
 mining.best
 mining.bitcoin.com
 mining.bitcoin.cz
+mining.coincadence.com
 mining.coin-hive.com
 mining.deltapool.net
 mining.eligius.st
@@ -1961,6 +1973,7 @@ nist5.jp.nicehash.com
 nist5.mine.zpool.ca
 nist5.usa.nicehash.com
 nitsche.top
+njbtcmine.net
 nl1.ghash.io
 nl.cookiescript.info
 nnc.mypool.name
@@ -2057,6 +2070,7 @@ orb.lightspeedmining.com
 orb.smartmining.net
 p2p-multipool.eu
 p2p-multipool.greengaming.de
+p2pool.crunchpool.com
 p2pool.in
 p2pool.info
 p2pool.kosmoplovci.org
@@ -2441,6 +2455,7 @@ sha256.usa.nicehash.com
 sha.eobot.com
 sheepman.mine.bz
 shell.bitcoin.com
+shell.poolbt.com
 shrink-service.it
 sia-asia1.nanopool.org
 sia.br.nicehash.com
@@ -3450,6 +3465,7 @@ www.ckpool.org
 www.cloudcdn.gdn
 www.cloudcoins.co
 www.coinbase.com
+www.coincadence.com
 www.coincheck.com
 www.coinfirm.io
 www.coinhive.com
@@ -3707,6 +3723,7 @@ xmr-asia1.nanopool.org
 xmr-asia.nanopool.org
 xmr-au1.nanopool.org
 xmr.bohemianpool.com
+xmr.btgirl.com.cn
 xmr.coinlab.biz
 xmr.coinmine.pl
 xmr.crypto-coins.club
