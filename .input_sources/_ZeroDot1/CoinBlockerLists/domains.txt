@@ -19,6 +19,7 @@
 3c0cb3b4.space
 3d0cb547.space
 50bots.nullrefexcep.com
+58coin.com
 5vz3cfs0yd.me
 64.mymyxmra.ru
 64.myxmr.pw
@@ -381,6 +382,7 @@ bitcoiner.win
 bitcoinethereum.eu
 bitcoin.fastlink.pl
 bitcoin-gold.miningpoolhub.com
+bitcoin-india.org
 bitcoin.mine.bz
 bitcoin.miningpoolhub.com
 bitcoin.nocroom.com
@@ -837,6 +839,7 @@ db.xmrpool.net
 dc.deltapool.net
 d.cfcdist.gdn
 d.cfcnet.gdn
+d.cfcnet.top
 d.cpufan.club
 dcr-api.suprnova.cc
 dcr.coinmine.pl
@@ -1497,6 +1500,7 @@ gus.host
 gustaver.ddns.ne
 gustaver.ddns.net
 ha256.mine.zpool.ca
+halacostminer.000webhostapp.com
 hal.dnb.io
 halibut.multipool.us
 hallaert.online
@@ -1672,6 +1676,7 @@ jsecoin.com
 js.my0115.ru
 js.mys2016.info
 json.stringengines.com
+julrina.000webhostapp.com
 jyhfuqoh.info
 kalipasindra.online
 kano.is
@@ -1981,6 +1986,7 @@ mine.njbtcmine.net
 mine.nnc.mypool.online
 mine.pasl.fairpool.xyz
 mine.pirl.mypool.online
+mine.poolmin.com
 miner2.sighash.info
 miner.bitcoin.cz
 miner.center
@@ -2330,6 +2336,7 @@ ns3alt.poloniex.com
 ns4alt.poloniex.com
 ns.bitgrail.com
 nullrefexcep.com
+nunu-001.now.sh
 nwx1.btcchina.com
 ny1.minez.zone
 ny7f6goy.bid
@@ -2508,6 +2515,7 @@ pool.antpool.com
 pool.ar-net.info
 pool.bitcoin.com
 pool.bitcoin.cz
+pool.bitcoin-india.org
 pool.bohemianpool.com
 pool.btcchina.com
 pool.burstmarketplace.com
@@ -2921,6 +2929,7 @@ speedtest.in.nicehash.com
 speedtest.jp.nicehash.com
 speedtest.usa.nicehash.com
 speed.z.cash
+spiky-inclinations.000webhostapp.com
 spr.suprnova.cc
 sql.eth.pp.ua
 src.coinmine.pl
@@ -3188,6 +3197,7 @@ tulip18.com
 turnsocial.com
 turnsocial.now.sh
 tzc.suprnova.cc
+u002fhash.58coin.com
 ubiq.coin-miners.info
 ubiq.drowningpool.net
 ubiq.fairpool.xyz
@@ -3334,6 +3344,7 @@ vip2140.minergate.com
 vip48.wemineltc.com
 vip.antpool.com
 vip.btcchina.com
+vip.cfcnet.top
 vip.slushpool.com
 virtuallakshmi.com
 virtualminingcoin.miningpoolhub.com
@@ -3866,6 +3877,7 @@ www.bitcoin.bitaccess.co
 www.bitcoin.cz
 www.bitcoin.de
 www.bitcoiner.win
+www.bitcoin-india.org
 www.bitcoin-russia.ru
 www.bitconnect.co
 www.bitcore.io
@@ -4067,6 +4079,7 @@ www.pool2.coinimp.com
 www.pool.coinimp.com
 www.pool.cryptonoter.com
 www.pooldd.com
+www.poolmin.com
 www.poolmining.org
 www.ppoi.org
 www.preprod.changelly.com
@@ -4169,6 +4182,8 @@ xdn.miner.center
 xdn.pool.minergate.com
 xdn.poolto.be
 xdn-xmr.pool.minergate.com
+xenafiter.000webhostapp.com
+xerox300.000webhostapp.com
 xevan.mine.zpool.ca
 xgmc6lu8fs.me
 xinchao13.gq
