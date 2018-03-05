@@ -6,6 +6,7 @@
 1q2w3.fun
 1q2w3.me
 1q2w3.top
+1q2w3.website
 2giga.link
 2k20.tk
 2miners.com
@@ -265,6 +266,7 @@ auroracoin-qubit.miningpoolhub.com
 auroramine.com
 aus01.supportxmr.com
 authedmine.com
+authedmine.eu
 authedwebmine.cz
 auth.hitbtc.com
 autoconfig.cryptominingpool.eu
@@ -1443,6 +1445,7 @@ freecontent.loan
 freecontent.net
 freecontent.racing
 freecontent.stream
+freecontent.win
 freedom.wemineltc.com
 fresh-js.bitbucket.io
 freshrefresher.com
@@ -2338,6 +2341,7 @@ nathetsof.com
 nbit.coin-miners.info
 nbx.coin-miners.info
 ndc.bitember.com
+nddmcconmqsy.ru
 nebabrop.com
 nekonium.sighash.info
 neohash.com
@@ -3716,6 +3720,7 @@ ws020.ws.tidafors.xyz
 ws021.coinhive.com
 ws021.hemnes.win
 ws02.1q2w3.me
+ws02.1q2w3.website
 ws021.ws.tidafors.xyz
 ws022.authedmine.com
 ws022.coinhive.com
@@ -3769,6 +3774,7 @@ ws031.coinhive.com
 ws031.hemnes.win
 ws031-proxy-ajcryptominer.ajplugins.com
 ws03.1q2w3.me
+ws03.1q2w3.website
 ws031.ws.tidafors.xyz
 ws032.authedmine.com
 ws032.coinhive.com
@@ -4017,6 +4023,7 @@ www.api.bitaccess.co
 www.api.changelly.com
 www.api.moneropool.nl
 www.authedmine.com
+www.bablace.com
 www.baiduccdn1.com
 www.beagamer.club
 www.bestETNpool.com
