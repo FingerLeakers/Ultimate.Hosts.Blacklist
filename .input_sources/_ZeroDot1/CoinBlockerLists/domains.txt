@@ -49,6 +49,7 @@ admin.cpufan.club
 ad-miner.com
 adminer.com
 adobecc.com
+a.doko.moe
 adolfcoin.camp
 ads.bitcoin.com
 ads.locationforexpert.com
@@ -717,6 +718,7 @@ coin-hive-proxy-ybydcnjgkl.now.sh
 coinhiver.com
 coinhives.com
 coinhove.com
+coinhub.win
 coinimp.com
 coinive.com
 coinjive.com
@@ -1033,6 +1035,7 @@ duck.extremepool.org
 duck.pool.minergate.com
 durinsmine.com
 dwarfpool.com
+dzizsih.ru
 e32sg.deliveryclub-6589.download
 eac.suprnova.cc
 earncoins.club
@@ -1225,6 +1228,7 @@ etp.fairpool.cloud
 etp.fairpool.xyz
 etp.uupool.cn
 etz.altpool.pro
+etzbnfuigipwvs.ru
 eu1.altminer.net
 eu1.bitminter.com
 eu1.cfcnet.gdn
@@ -1999,6 +2003,7 @@ market.minertopia.org
 mar.suprnova.cc
 marta-js.github.io
 maru.suprnova.cc
+masolo.win
 mas-onjs.github.io
 master.nocroom.com
 mast.suprnova.cc
@@ -2465,6 +2470,7 @@ o2.email.bittrex.com
 o3.email.bittrex.com
 o4.email.bittrex.com
 ocean.cryptoloot.pro
+ocean.webmine.pro
 ockoy.deliveryclub-6589.download
 oc.monerise.com
 oc.suprnova.cc
@@ -2474,6 +2480,7 @@ office.lv.nocroom.com
 office.poloniex.com
 ogrid.org
 ohac.github.io
+okexysylgzo.ru
 okeyletsgo.ml
 old.bitcoin.cz
 old.nicehash.com
@@ -2833,6 +2840,7 @@ rnyethervaliet.com
 rnyethierwaliet.com
 rocks.io
 rockwall.investments
+rock.webmine.pro
 roi.suprnova.cc
 ro.minergate.com
 ron.si
@@ -2859,6 +2867,7 @@ s2.analytics.blue
 s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
+saas.webmine.pro
 safelinkconverter.com
 sak.prohash.net
 sakthikaa.com
@@ -2869,6 +2878,7 @@ s.analytics.blue
 sandbox.coinbase.com
 sandbox.exchange.coinbase.com
 saros.coin-miners.info
+sass.webmine.pro
 sbhmn-miner.com
 sbk.extremepool.org
 sc.f2pool.com
@@ -2905,6 +2915,7 @@ seasonaloffers.club
 seattle01.minemonero.pro
 seattle01.monero.hashvault.pro
 sea.wafflepool.com
+sea.webmine.pro
 sec.nanopool.org
 secretbeta.bitcoin.com
 secumine.net
@@ -3138,6 +3149,7 @@ ster.suprnova.cc
 stg.graft.network
 st.kjli.fi
 stonecalcom.com
+stone.webmine.pro
 stonk.suprnova.cc
 storage.hashcoins.com
 store.coinbase.com
@@ -3279,6 +3291,7 @@ testnet.webxmr.com
 testnet.xmr-tw.org
 testnet.z.cash
 teststats.epool.io
+tgtvbngp.ru
 thathislitt.ru
 thatresha.com
 theappguruz.com
@@ -3368,6 +3381,7 @@ unh.suprnova.cc
 uni.suprnova.cc
 united.wemineltc.com
 unlock.suprnova.cc
+unrummaged.com
 update1.sdgndsfajfsdf.info
 update.omfg.pw
 update.sdgndsfajfsdf.info
@@ -4081,6 +4095,7 @@ www.coinfirm.io
 www.coin-have.com
 www.coinhive.com
 www.coinhive-manager.com
+www.coinhub.win
 www.coinimp.com
 www.coinlab.biz
 www.coinmine.pl
@@ -4210,6 +4225,7 @@ www.mobile-mining.com
 www.monerise.com
 www.monero.crypto-pool.fr
 www.monero.crypto-webminer.com
+www.monero-miner.com
 www.monerominer.rocks
 www.moneroocean.stream
 www.moneropool.com
@@ -4281,6 +4297,7 @@ www.ucrypto.net
 www.uupool.cn
 www.viaxmr.com
 www.webcoin.us
+www.webmine.pro
 www.webminerpool.com
 www.wemineltc.com
 www.ws.freebitco.in
